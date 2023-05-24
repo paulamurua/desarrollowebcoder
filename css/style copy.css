@@ -213,6 +213,12 @@ justify-content: center;
 
 }
 
+..mainInfoyAyuda {
+  grid-area: main;
+  text-align: center; 
+  background-color: beige;
+  
+}
 .footerProductos {
   grid-area: footer;
   background-color: rgb(184, 184, 184);
